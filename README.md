@@ -12,6 +12,13 @@ My name's Monroe Gollaher. I come from a background of techology and education. 
 ### Companies I am interested in
 - &nbsp;<a href="https://docs.google.com/spreadsheets/d/1HWCuXjPtoratqp5yD-71g9gj3Ot72TxjEEwECagHnWk/edit#gid=0">Companies</a>
 
+### About Me
+ - 🎵 &nbsp;I play guitar, bass, piano, ukulele, viola & like to go to karaoke nights
+ - 📸 &nbsp;Photographer
+ - 🎬 &nbsp;Fan of enjoying a good film and tv show
+ - 🎲 &nbsp;Trivia & board game enthusiast 
+ 
+ "You miss 100% of the shots you don't take" - Wayne Gretzy - Michael Scott
 
 <!--
 **MonroeGollaher/MonroeGollaher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
