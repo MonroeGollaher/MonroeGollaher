@@ -5,8 +5,9 @@ My name's Monroe Gollaher. I come from a background of techology and education. 
 - 🔨 Currently working on a trivia management app that utilizes Vue 3, Node.js & Mongo.db
 
 ### How to reach out to me
-- 📩  &nbsp;mgollaher92@gmail.com
-- 💼  &nbsp;<a href="https://www.linkedin.com/in/monroe-gollaher/">LinkedIn</a>
+- 📩 &nbsp;mgollaher92@gmail.com
+- 💼 &nbsp;<a href="https://www.linkedin.com/in/monroe-gollaher/">LinkedIn</a>
+- 📹 &nbsp;<a href="https://www.instagram.com/thisismonroe">Instagram</a>
 
 
 <!--
