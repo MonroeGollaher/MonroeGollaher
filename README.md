@@ -2,7 +2,7 @@
 My name's Monroe Gollaher. I come from a background of techology and education. I am a fullstack developer, with my main love being UX/UI and frontend work. I love solving puzzles and finding out why things do the things they do. 
 
 - 🌱 &nbsp;I’m currently learning fullstack web development.
-- 🔨 &nbsp;Currently working on a trivia management app that utilizes Vue 3, Node.js & Mongo.db
+- 🔨 &nbsp;Currently working on a <a href="https://github.com/MonroeGollaher/TriviaGame">trivia management app</a> that utilizes Vue 3, Node.js & Mongo.db
 
 ### How to reach out to me
 - 📩 &nbsp;mgollaher92@gmail.com
