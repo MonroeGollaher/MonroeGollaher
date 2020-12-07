@@ -18,7 +18,7 @@ My name's Monroe Gollaher. I come from a background of techology and education. 
  - 🎬 &nbsp;Fan of enjoying a good film and tv show
  - 🎲 &nbsp;Trivia & board game enthusiast 
  
- "You miss 100% of the shots you don't take" - Wayne Gretzy - Michael Scott
+ "You miss 100% of the shots you don't take" - Wayne Gretzky - Michael Scott
 
 <!--
 **MonroeGollaher/MonroeGollaher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
