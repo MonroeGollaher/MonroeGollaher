@@ -1,5 +1,5 @@
 ### Hello there 👋
-My name's Monroe Gollaher. I come from a background of techology and education. I am a fullstack developer, with my main love being UX/UI and frontend work. I love solving puzzles and finding out why things do the things they do. 
+My name's Monroe Gollaher. I come from a background of techology and education. I am a driven fullstack developer, with my main love being UX/UI and frontend work. I love solving puzzles and finding out why things do the things they do. After about 5 years in education and 3 in the IT/support field, I fell in love with software development as it combines my passions for both creativity and technology.
 
 - 🌱 &nbsp;I’m currently learning fullstack web development.
 - 🔨 &nbsp;Currently working on a <a href="https://github.com/MonroeGollaher/TriviaGame">trivia management app</a> that utilizes Vue 3, Node.js & Mongo.db
@@ -17,6 +17,7 @@ My name's Monroe Gollaher. I come from a background of techology and education. 
  - 📸 &nbsp;Photographer
  - 🎬 &nbsp;Fan of enjoying a good film and tv show
  - 🎲 &nbsp;Trivia & board game enthusiast 
+ - 🏕 &nbsp;Outdoor / camping lover
  
  "You miss 100% of the shots you don't take" - Wayne Gretzky - Michael Scott
 
