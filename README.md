@@ -9,9 +9,6 @@ My name's Monroe Gollaher. I come from a background of techology and education. 
 - 💼 &nbsp;<a href="https://www.linkedin.com/in/monroe-gollaher/">LinkedIn</a>
 - 📹 &nbsp;<a href="https://www.instagram.com/thisismonroe">Instagram</a>
 
-### Companies I am interested in
-- &nbsp;<a href="https://docs.google.com/spreadsheets/d/1HWCuXjPtoratqp5yD-71g9gj3Ot72TxjEEwECagHnWk/edit#gid=0">Companies</a>
-
 ### About Me
  - 🎵 &nbsp;I play guitar, bass, piano, ukulele, viola & like to go to karaoke nights
  - 📸 &nbsp;Photographer
