@@ -1,10 +1,8 @@
 ### Hello there 👋
-My name's Monroe Gollaher. I come from a background of techology and education. I am a driven fullstack developer, with my main love being UX/UI and frontend work. I love solving puzzles and finding out why things do the things they do.<br>After about 5 years in education and 3 in the IT/support field, I fell in love with software development as it combines my passions for both creativity and technology.
+My name's Monroe Gollaher. Currently a software developer at Foundry Interactive. I come from a background of techology and education. I am a driven fullstack developer, with my main love being UX/UI and frontend work. I love solving puzzles and finding out why things do the things they do.<br>After about 5 years in education and 3 in the IT/support field, I fell in love with software development as it combines my passions for both creativity and technology.
 
-- 🌱 &nbsp;I’m currently learning fullstack web development. Right now, I'm delving into React.
-- 💻 &nbsp;Tech stack: Javascript(Vue.js, React), C#, .Net Core, MySQL, Node.js, Mongo.db, CSS/Bootstrap, HTML.
-- 🔨 &nbsp;Currently working on a <a href="https://github.com/MonroeGollaher/TriviaGame">trivia management app</a> that utilizes Vue 3, Node.js & Mongo.db.
-- 🖥 &nbsp;<a href="https://monroegollaher.github.io/Portfolio/">Check out my landing page / portfolio!</a>
+- 💻 &nbsp;Tech stack: Javascript(Vue.js, React, Angular), C#, .Net Core, MySQL, Node.js, Mongo.db, CSS/Bootstrap, HTML.
+- 💼 &nbsp;<a href="https://monroegollaher.github.io/Portfolio/">Check out my landing page / portfolio!</a>
 
 ### How to reach out to me
 - 📩 &nbsp;mgollaher92@gmail.com
