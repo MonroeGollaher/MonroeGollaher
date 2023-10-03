@@ -1,6 +1,7 @@
 ### Hello there 👋
-My name's Monroe Gollaher. Currently a software developer at MadeLabs, with experience in the medical and financial space.<br><br>
-I am a driven fullstack developer, with my main love being UX/UI and frontend work. I love solving puzzles and finding out why things do the things they do.<br><br>After about 5 years in education and 3 in the IT/support field, I fell in love with software development as it combines my passions for both creativity and technology.
+My name's Monroe Gollaher; a software developer with experience in the medical and financial space with both start ups and established companies.<br><br>
+After about 5 years in education and 3 in the IT/support field, I fell in love with software development as it combines my passions for both creativity and technology.<br><br>
+I am a driven fullstack developer, with my main love being UX/UI and frontend work. I love solving puzzles and finding out why things do the things they do.<br><br>
 
 - 💻 &nbsp;Tech stack: Javascript(Vue.js, React w/Typescript, Angular), Vite, C#, .Net Core, MySQL, Node.js, Mongo.db, CSS/Bootstrap, HTML & more.
 - 💼 &nbsp;<a href="https://monroegollaher.github.io/Portfolio/">Check out my landing page / portfolio!</a>
