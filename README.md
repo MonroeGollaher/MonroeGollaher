@@ -3,7 +3,7 @@ My name's Monroe Gollaher; a software developer with experience in the medical a
 After about 5 years in education and 3 in the IT/support field, I fell in love with software development as it combines my passions for both creativity and technology.<br><br>
 I am a driven fullstack developer, with my main love being UX/UI and frontend work. I love solving puzzles and finding out why things do the things they do.<br><br>
 
-- 💻 &nbsp;Tech stack: Javascript(Vue.js, React w/Typescript, Angular), Vite, C#, .Net Core, MySQL, Node.js, Mongo.db, CSS/Bootstrap, HTML & more.
+- 💻 &nbsp;Tech stack: Javascript(Vue.js, React w/Typescript, Angular), PHP w/Laravel, AWS, C#, .Net Core, SQL, Node.js, Mongo.db, Vite, CSS/Bootstrap, HTML & more.
 - 💼 &nbsp;<a href="https://monroegollaher.github.io/Portfolio/">Check out my landing page / portfolio!</a>
 
 ### How to reach out to me
